@@ -11,9 +11,9 @@
 
 ## 🚀 Ключевые проекты
 
-- **[Motor Fault Detection]([https://github.com](https://github.com/smirnov-code/Motor_fault_detection))** — Исследовательский проект по анализу данных и применению базового ML для предиктивного поиска неисправностей в двигателях.
+- **[Motor Fault Detection](https://github.com/smirnov-code/Motor_fault_detection)** — Исследовательский проект по анализу данных и применению базового ML для предиктивного поиска неисправностей в двигателях.
 - **[Parser Uteka](https://github.com/smirnov-code/Parser_Uteka)** — Коммерческий парсер для регионального мониторинга цен и наличия медицинских препаратов.
-- **[ExelD]([https://github.com](https://github.com/smirnov-code/ExelD_1.0))** — Скрипт автоматизации для бизнеса: умная группировка, импорт и обработка данных из Excel.
+- **[ExelD](https://github.com/smirnov-code/ExelD_1.0)** — Скрипт автоматизации для бизнеса: умная группировка, импорт и обработка данных из Excel.
 
 ## 📬 Контакты для связи
 
