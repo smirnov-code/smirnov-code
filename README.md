@@ -1,13 +1,13 @@
 # Добро пожаловать!
 
-Я **Python-разработчик**, специализируюсь на **Backend-разработке** и **Machine Learning**. Мне нравится создавать эффективные веб-сервисы, автоматизировать сбор и обработку данных, а также внедрять алгоритмы машинного обучения для решения реальных бизнес-задач.
+Я **Python-разработчик**, специализируюсь на **Backend-разработке** и **Machine Learning**. В своей работе активно использую ИИ во многих направлениях: быстрее с ним учусь, отправляю собственный код на review и получаю целые модули программ с помощью промтов. Понимаю сильные и слабые стороны Gemini Pro, ищу варианты сделать больше с теми же ресурсами. Имею высшее образование и хорошие математические навыки.
 
 ## 🛠️ Стек технологий и инструменты
 
-- **Backend & Core:** Python, FastAPI, Django, REST API, Docker
-- **Data Science & ML:** NumPy, Pandas, Scikit-Learn, Matplotlib, Анализ данных (EDA)
-- **Автоматизация и Парсинг:** BeautifulSoup, Requests, автоматизация Excel (openpyxl / pandas)
-- **Базы данных & Инструменты:** PostgreSQL, SQLite, Git, GitHub
+- **Backend & Core:** Python, FastAPI, SQL, HTML
+- **Data Science & ML:** NumPy, Pandas, Scikit-Learn
+- **Автоматизация и Парсинг:** BeautifulSoup, Requests, Playwright
+- **Базы данных & Инструменты:** SQLite, Git, GitHub, Pytest, Docker
 
 ## 🚀 Ключевые проекты
 
@@ -17,5 +17,5 @@
 
 ## 📬 Контакты для связи
 
-- **Telegram:** @[ваш_юзернейм]
-- **Email:** ваша_почта@example.com
+- **Telegram:** @ivansmi
+- **Email:** ivansmi.go@yandex.ru
