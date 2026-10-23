@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет, я Иван Смирнов! 👋
 
-<!--
-**smirnov-code/smirnov-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **Python-разработчик**, специализируюсь на **Backend-разработке** и **Machine Learning**. Мне нравится создавать эффективные веб-сервисы, автоматизировать сбор и обработку данных, а также внедрять алгоритмы машинного обучения для решения реальных бизнес-задач.
 
-Here are some ideas to get you started:
+## 🛠️ Стек технологий и инструменты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend & Core:** Python, FastAPI, Django, REST API, Docker
+- **Data Science & ML:** NumPy, Pandas, Scikit-Learn, Matplotlib, Анализ данных (EDA)
+- **Автоматизация и Парсинг:** BeautifulSoup, Requests, автоматизация Excel (openpyxl / pandas)
+- **Базы данных & Инструменты:** PostgreSQL, SQLite, Git, GitHub
+
+## 🚀 Ключевые проекты
+
+- **[Motor Fault Detection](https://github.com)** — Исследовательский проект по анализу данных и применению базового ML для предиктивного поиска неисправностей в двигателях.
+- **[Parser Uteka](https://github.com)** — Коммерческий парсер для регионального мониторинга цен и наличия медицинских препаратов.
+- **[ExelD](https://github.com)** — Скрипт автоматизации для бизнеса: умная группировка, импорт и обработка данных из Excel.
+
+## 📬 Контакты для связи
+
+- **Telegram:** @[ваш_юзернейм]
+- **Email:** ваша_почта@example.com
